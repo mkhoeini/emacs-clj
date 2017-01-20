@@ -1,0 +1,4 @@
+#+TITLE: An attempt to recreate some parts of emacs-lisp in clojure(script)
+
+* License
+  GNU GPL v3+
